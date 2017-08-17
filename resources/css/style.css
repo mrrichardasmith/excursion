@@ -25,3 +25,9 @@ p  {
 a  {
   color: Aquamarine;
 }
+
+.footer  {
+  text-align: right;
+  font-size: 21px;
+  color: gray;
+}
